@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Eclipse / STS
+.settings/
+.project
+.classpath
+
+# Build files
+build/
+bin/
+out/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
